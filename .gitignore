@@ -1,0 +1,11 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.jks
+*.keystore
+__pycache__/
+.idea/workspace.xml
+.idea/caches/
+.idea/deviceManager.xml
+.idea/deploymentTargetSelector.xml

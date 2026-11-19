@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.MamaOca" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#241046</item>
+        <item name="android:colorAccent">#F6C568</item>
+        <item name="android:windowSplashScreenBackground">#241046</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+    </style>
+</resources>

@@ -1,0 +1,658 @@
+{
+ "bodies": {
+  "boy": [
+   {
+    "id": "body-boy-1",
+    "name": "Camiseta y jeans",
+    "image": "avatar/body-boy-1.webp",
+    "skin": "avatar/body-boy-1-skin.webp",
+    "head": [
+     23,
+     7,
+     210,
+     171
+    ],
+    "size": [
+     256,
+     502
+    ]
+   },
+   {
+    "id": "body-boy-2",
+    "name": "Sudadera deportiva",
+    "image": "avatar/body-boy-2.webp",
+    "skin": "avatar/body-boy-2-skin.webp",
+    "head": [
+     26,
+     8,
+     210,
+     161
+    ],
+    "size": [
+     260,
+     503
+    ]
+   },
+   {
+    "id": "body-boy-3",
+    "name": "Overol",
+    "image": "avatar/body-boy-3.webp",
+    "skin": "avatar/body-boy-3-skin.webp",
+    "head": [
+     23,
+     7,
+     210,
+     172
+    ],
+    "size": [
+     257,
+     503
+    ]
+   },
+   {
+    "id": "body-boy-4",
+    "name": "Camisa y bermudas",
+    "image": "avatar/body-boy-4.webp",
+    "skin": "avatar/body-boy-4-skin.webp",
+    "head": [
+     24,
+     8,
+     209,
+     169
+    ],
+    "size": [
+     256,
+     506
+    ]
+   },
+   {
+    "id": "body-boy-5",
+    "name": "Pijama",
+    "image": "avatar/body-boy-5.webp",
+    "skin": "avatar/body-boy-5-skin.webp",
+    "head": [
+     26,
+     8,
+     210,
+     169
+    ],
+    "size": [
+     260,
+     506
+    ]
+   },
+   {
+    "id": "body-boy-6",
+    "name": "Traje de superhéroe",
+    "image": "avatar/body-boy-6.webp",
+    "skin": "avatar/body-boy-6-skin.webp",
+    "head": [
+     57,
+     7,
+     209,
+     168
+    ],
+    "size": [
+     322,
+     505
+    ]
+   }
+  ],
+  "girl": [
+   {
+    "id": "body-girl-1",
+    "name": "Vestido",
+    "image": "avatar/body-girl-1.webp",
+    "skin": "avatar/body-girl-1-skin.webp",
+    "head": [
+     33,
+     3,
+     174,
+     150
+    ],
+    "size": [
+     241,
+     491
+    ]
+   },
+   {
+    "id": "body-girl-2",
+    "name": "Camiseta y falda",
+    "image": "avatar/body-girl-2.webp",
+    "skin": "avatar/body-girl-2-skin.webp",
+    "head": [
+     33,
+     3,
+     174,
+     149
+    ],
+    "size": [
+     241,
+     490
+    ]
+   },
+   {
+    "id": "body-girl-3",
+    "name": "Overol",
+    "image": "avatar/body-girl-3.webp",
+    "skin": "avatar/body-girl-3-skin.webp",
+    "head": [
+     33,
+     2,
+     175,
+     151
+    ],
+    "size": [
+     241,
+     491
+    ]
+   },
+   {
+    "id": "body-girl-4",
+    "name": "Sudadera y leggings",
+    "image": "avatar/body-girl-4.webp",
+    "skin": "avatar/body-girl-4-skin.webp",
+    "head": [
+     39,
+     2,
+     175,
+     141
+    ],
+    "size": [
+     255,
+     500
+    ]
+   },
+   {
+    "id": "body-girl-5",
+    "name": "Pijama",
+    "image": "avatar/body-girl-5.webp",
+    "skin": "avatar/body-girl-5-skin.webp",
+    "head": [
+     40,
+     2,
+     175,
+     148
+    ],
+    "size": [
+     255,
+     499
+    ]
+   },
+   {
+    "id": "body-girl-6",
+    "name": "Traje de superheroína",
+    "image": "avatar/body-girl-6.webp",
+    "skin": "avatar/body-girl-6-skin.webp",
+    "head": [
+     54,
+     2,
+     174,
+     149
+    ],
+    "size": [
+     281,
+     500
+    ]
+   }
+  ]
+ },
+ "faces": {
+  "boy": [
+   {
+    "id": "face-boy-1",
+    "name": "Sonriente",
+    "image": "avatar/face-boy-1.webp",
+    "iris": "avatar/face-boy-1-iris.webp"
+   },
+   {
+    "id": "face-boy-2",
+    "name": "Risa grande",
+    "image": "avatar/face-boy-2.webp",
+    "iris": "avatar/face-boy-2-iris.webp"
+   },
+   {
+    "id": "face-boy-3",
+    "name": "Guiño",
+    "image": "avatar/face-boy-3.webp",
+    "iris": "avatar/face-boy-3-iris.webp"
+   },
+   {
+    "id": "face-boy-4",
+    "name": "Sorprendido",
+    "image": "avatar/face-boy-4.webp",
+    "iris": "avatar/face-boy-4-iris.webp"
+   },
+   {
+    "id": "face-boy-5",
+    "name": "Pícaro",
+    "image": "avatar/face-boy-5.webp",
+    "iris": "avatar/face-boy-5-iris.webp"
+   },
+   {
+    "id": "face-boy-6",
+    "name": "Tranquilo",
+    "image": "avatar/face-boy-6.webp",
+    "iris": "avatar/face-boy-6-iris.webp"
+   }
+  ],
+  "girl": [
+   {
+    "id": "face-girl-1",
+    "name": "Sonriente",
+    "image": "avatar/face-girl-1.webp",
+    "iris": "avatar/face-girl-1-iris.webp"
+   },
+   {
+    "id": "face-girl-2",
+    "name": "Risa grande",
+    "image": "avatar/face-girl-2.webp",
+    "iris": "avatar/face-girl-2-iris.webp"
+   },
+   {
+    "id": "face-girl-3",
+    "name": "Guiño",
+    "image": "avatar/face-girl-3.webp",
+    "iris": "avatar/face-girl-3-iris.webp"
+   },
+   {
+    "id": "face-girl-4",
+    "name": "Sorprendida",
+    "image": "avatar/face-girl-4.webp",
+    "iris": "avatar/face-girl-4-iris.webp"
+   },
+   {
+    "id": "face-girl-5",
+    "name": "Pícara",
+    "image": "avatar/face-girl-5.webp",
+    "iris": "avatar/face-girl-5-iris.webp"
+   },
+   {
+    "id": "face-girl-6",
+    "name": "Tranquila",
+    "image": "avatar/face-girl-6.webp",
+    "iris": "avatar/face-girl-6-iris.webp"
+   }
+  ]
+ },
+ "hair": {
+  "boy": [
+   {
+    "id": "hair-boy-1",
+    "name": "Corto",
+    "image": "avatar/hair-boy-1.webp",
+    "anchor": [
+     0.521,
+     0.5985,
+     0.6835
+    ],
+    "colors": [
+     "avatar/hair-boy-1.webp",
+     "avatar/hair-boy-1-c1.webp",
+     "avatar/hair-boy-1-c2.webp",
+     "avatar/hair-boy-1-c3.webp",
+     "avatar/hair-boy-1-c4.webp",
+     "avatar/hair-boy-1-c5.webp"
+    ]
+   },
+   {
+    "id": "hair-boy-2",
+    "name": "Rizado",
+    "image": "avatar/hair-boy-2.webp",
+    "anchor": [
+     0.5064,
+     0.5217,
+     0.5485
+    ],
+    "colors": [
+     "avatar/hair-boy-2.webp",
+     "avatar/hair-boy-2-c1.webp",
+     "avatar/hair-boy-2-c2.webp",
+     "avatar/hair-boy-2-c3.webp",
+     "avatar/hair-boy-2-c4.webp",
+     "avatar/hair-boy-2-c5.webp"
+    ]
+   },
+   {
+    "id": "hair-boy-3",
+    "name": "Despeinado",
+    "image": "avatar/hair-boy-3.webp",
+    "anchor": [
+     0.5,
+     0.53
+    ],
+    "colors": [
+     "avatar/hair-boy-3.webp",
+     "avatar/hair-boy-3-c1.webp",
+     "avatar/hair-boy-3-c2.webp",
+     "avatar/hair-boy-3-c3.webp",
+     "avatar/hair-boy-3-c4.webp",
+     "avatar/hair-boy-3-c5.webp"
+    ],
+    "adjust": [
+     0,
+     0,
+     1.08
+    ]
+   },
+   {
+    "id": "hair-boy-4",
+    "name": "Con copete",
+    "image": "avatar/hair-boy-4.webp",
+    "anchor": [
+     0.53,
+     0.6
+    ],
+    "colors": [
+     "avatar/hair-boy-4.webp",
+     "avatar/hair-boy-4-c1.webp",
+     "avatar/hair-boy-4-c2.webp",
+     "avatar/hair-boy-4-c3.webp",
+     "avatar/hair-boy-4-c4.webp",
+     "avatar/hair-boy-4-c5.webp"
+    ]
+   },
+   {
+    "id": "hair-boy-5",
+    "name": "Rapado",
+    "image": "avatar/hair-boy-5.webp",
+    "anchor": [
+     0.5074,
+     0.47
+    ],
+    "colors": [
+     "avatar/hair-boy-5.webp",
+     "avatar/hair-boy-5-c1.webp",
+     "avatar/hair-boy-5-c2.webp",
+     "avatar/hair-boy-5-c3.webp",
+     "avatar/hair-boy-5-c4.webp",
+     "avatar/hair-boy-5-c5.webp"
+    ]
+   },
+   {
+    "id": "hair-boy-6",
+    "name": "Afro",
+    "image": "avatar/hair-boy-6.webp",
+    "anchor": [
+     0.4965,
+     0.5216,
+     0.5704
+    ],
+    "colors": [
+     "avatar/hair-boy-6.webp",
+     "avatar/hair-boy-6-c1.webp",
+     "avatar/hair-boy-6-c2.webp",
+     "avatar/hair-boy-6-c3.webp",
+     "avatar/hair-boy-6-c4.webp",
+     "avatar/hair-boy-6-c5.webp"
+    ]
+   },
+   {
+    "id": "hair-boy-7",
+    "name": "Liso con fleco",
+    "image": "avatar/hair-boy-7.webp",
+    "anchor": [
+     0.4505,
+     0.7015,
+     0.6044
+    ],
+    "colors": [
+     "avatar/hair-boy-7.webp",
+     "avatar/hair-boy-7-c1.webp",
+     "avatar/hair-boy-7-c2.webp",
+     "avatar/hair-boy-7-c3.webp",
+     "avatar/hair-boy-7-c4.webp",
+     "avatar/hair-boy-7-c5.webp"
+    ],
+    "adjust": [
+     0,
+     0,
+     0.92
+    ]
+   },
+   {
+    "id": "hair-boy-8",
+    "name": "Largo",
+    "image": "avatar/hair-boy-8.webp",
+    "anchor": [
+     0.5051,
+     0.36
+    ],
+    "colors": [
+     "avatar/hair-boy-8.webp",
+     "avatar/hair-boy-8-c1.webp",
+     "avatar/hair-boy-8-c2.webp",
+     "avatar/hair-boy-8-c3.webp",
+     "avatar/hair-boy-8-c4.webp",
+     "avatar/hair-boy-8-c5.webp"
+    ],
+    "adjust": [
+     0,
+     0,
+     1.12
+    ]
+   }
+  ],
+  "girl": [
+   {
+    "id": "hair-girl-1",
+    "name": "Coletas",
+    "image": "avatar/hair-girl-1.webp",
+    "anchor": [
+     0.5074,
+     0.2835,
+     0.4144
+    ],
+    "colors": [
+     "avatar/hair-girl-1.webp",
+     "avatar/hair-girl-1-c1.webp",
+     "avatar/hair-girl-1-c2.webp",
+     "avatar/hair-girl-1-c3.webp",
+     "avatar/hair-girl-1-c4.webp",
+     "avatar/hair-girl-1-c5.webp"
+    ],
+    "adjust": [
+     0,
+     0,
+     1.1
+    ]
+   },
+   {
+    "id": "hair-girl-2",
+    "name": "Trenzas",
+    "image": "avatar/hair-girl-2.webp",
+    "anchor": [
+     0.5,
+     0.1982,
+     0.4429
+    ],
+    "colors": [
+     "avatar/hair-girl-2.webp",
+     "avatar/hair-girl-2-c1.webp",
+     "avatar/hair-girl-2-c2.webp",
+     "avatar/hair-girl-2-c3.webp",
+     "avatar/hair-girl-2-c4.webp",
+     "avatar/hair-girl-2-c5.webp"
+    ]
+   },
+   {
+    "id": "hair-girl-3",
+    "name": "Cola de caballo",
+    "image": "avatar/hair-girl-3.webp",
+    "anchor": [
+     0.4,
+     0.4
+    ],
+    "colors": [
+     "avatar/hair-girl-3.webp",
+     "avatar/hair-girl-3-c1.webp",
+     "avatar/hair-girl-3-c2.webp",
+     "avatar/hair-girl-3-c3.webp",
+     "avatar/hair-girl-3-c4.webp",
+     "avatar/hair-girl-3-c5.webp"
+    ],
+    "adjust": [
+     0,
+     0,
+     1.05
+    ]
+   },
+   {
+    "id": "hair-girl-4",
+    "name": "Melena corta",
+    "image": "avatar/hair-girl-4.webp",
+    "anchor": [
+     0.4972,
+     0.4167,
+     0.2157
+    ],
+    "colors": [
+     "avatar/hair-girl-4.webp",
+     "avatar/hair-girl-4-c1.webp",
+     "avatar/hair-girl-4-c2.webp",
+     "avatar/hair-girl-4-c3.webp",
+     "avatar/hair-girl-4-c4.webp",
+     "avatar/hair-girl-4-c5.webp"
+    ]
+   },
+   {
+    "id": "hair-girl-5",
+    "name": "Rizos largos",
+    "image": "avatar/hair-girl-5.webp",
+    "anchor": [
+     0.5,
+     0.29
+    ],
+    "colors": [
+     "avatar/hair-girl-5.webp",
+     "avatar/hair-girl-5-c1.webp",
+     "avatar/hair-girl-5-c2.webp",
+     "avatar/hair-girl-5-c3.webp",
+     "avatar/hair-girl-5-c4.webp",
+     "avatar/hair-girl-5-c5.webp"
+    ],
+    "adjust": [
+     0,
+     0,
+     1.08
+    ]
+   },
+   {
+    "id": "hair-girl-6",
+    "name": "Moño",
+    "image": "avatar/hair-girl-6.webp",
+    "anchor": [
+     0.5018,
+     0.5314,
+     0.6064
+    ],
+    "colors": [
+     "avatar/hair-girl-6.webp",
+     "avatar/hair-girl-6-c1.webp",
+     "avatar/hair-girl-6-c2.webp",
+     "avatar/hair-girl-6-c3.webp",
+     "avatar/hair-girl-6-c4.webp",
+     "avatar/hair-girl-6-c5.webp"
+    ]
+   },
+   {
+    "id": "hair-girl-7",
+    "name": "Liso largo",
+    "image": "avatar/hair-girl-7.webp",
+    "anchor": [
+     0.4985,
+     0.2
+    ],
+    "colors": [
+     "avatar/hair-girl-7.webp",
+     "avatar/hair-girl-7-c1.webp",
+     "avatar/hair-girl-7-c2.webp",
+     "avatar/hair-girl-7-c3.webp",
+     "avatar/hair-girl-7-c4.webp",
+     "avatar/hair-girl-7-c5.webp"
+    ],
+    "adjust": [
+     0,
+     0,
+     1.12
+    ]
+   },
+   {
+    "id": "hair-girl-8",
+    "name": "Afro con moño",
+    "image": "avatar/hair-girl-8.webp",
+    "anchor": [
+     0.5095,
+     0.47
+    ],
+    "colors": [
+     "avatar/hair-girl-8.webp",
+     "avatar/hair-girl-8-c1.webp",
+     "avatar/hair-girl-8-c2.webp",
+     "avatar/hair-girl-8-c3.webp",
+     "avatar/hair-girl-8-c4.webp",
+     "avatar/hair-girl-8-c5.webp"
+    ]
+   }
+  ]
+ },
+ "accessories": [
+  {
+   "id": "accessory-all-1",
+   "name": "Gorra roja",
+   "image": "avatar/accessory-all-1.webp",
+   "kind": "cap",
+   "girlsOnly": false
+  },
+  {
+   "id": "accessory-all-2",
+   "name": "Gorra azul",
+   "image": "avatar/accessory-all-2.webp",
+   "kind": "cap",
+   "girlsOnly": false
+  },
+  {
+   "id": "accessory-all-3",
+   "name": "Lentes redondos",
+   "image": "avatar/accessory-all-3.webp",
+   "kind": "glasses",
+   "girlsOnly": false
+  },
+  {
+   "id": "accessory-all-4",
+   "name": "Lentes de estrella",
+   "image": "avatar/accessory-all-4.webp",
+   "kind": "glasses",
+   "girlsOnly": false
+  },
+  {
+   "id": "accessory-all-5",
+   "name": "Lentes de sol",
+   "image": "avatar/accessory-all-5.webp",
+   "kind": "glasses",
+   "girlsOnly": false
+  },
+  {
+   "id": "accessory-all-6",
+   "name": "Aretes de perla",
+   "image": "avatar/accessory-all-6.webp",
+   "kind": "earrings",
+   "girlsOnly": true
+  },
+  {
+   "id": "accessory-all-7",
+   "name": "Aretes de corazón",
+   "image": "avatar/accessory-all-7.webp",
+   "kind": "earrings",
+   "girlsOnly": true
+  },
+  {
+   "id": "accessory-all-8",
+   "name": "Aretes de estrella",
+   "image": "avatar/accessory-all-8.webp",
+   "kind": "earrings",
+   "girlsOnly": true
+  }
+ ],
+ "provisional": []
+}
